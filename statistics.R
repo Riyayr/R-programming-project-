@@ -1,0 +1,13 @@
+#statistical functions of R
+mean(co2$conc)
+mean(co2$uptake)
+median(co2$conc)
+median(co2$uptake)
+min(co2$conc)
+min(co2$uptake)
+max(co2$conc)
+max(co2$uptake)
+var(co2$conc)
+var(co2$uptake)
+sd(co2$conc)
+sd(co2$uptake)
